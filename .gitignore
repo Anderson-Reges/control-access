@@ -23,6 +23,7 @@
 hs_err_pid*
 
 target/*
+.idea
 
 .settings/*
 
@@ -31,4 +32,3 @@ target/*
 .project
 /bin/
 /target/
-.idea
